@@ -1,7 +1,7 @@
 # train and val datasets (image directory or *.txt file with image paths)
-train: /media/grvc/9a21287b-57b7-4c4a-b31b-eecbc540aa66/CODEBRIM_original/modified_dataset/train.txt  # 893 images
-val: /media/grvc/9a21287b-57b7-4c4a-b31b-eecbc540aa66/CODEBRIM_original/modified_dataset/val.txt  # 213 images
-test: /media/grvc/9a21287b-57b7-4c4a-b31b-eecbc540aa66/CODEBRIM_original/modified_dataset/val.txt  # 20k images for submission to https://competitions.codalab.org/competitions/20794
+train: /content/gdrive/MyDrive/datasets/PILOTING/CODEBRIM_original/modified_dataset/train.txt  # 893 images
+val: /content/gdrive/MyDrive/datasets/PILOTING/CODEBRIM_original/modified_dataset/val.txt  # 213 images
+test: /content/gdrive/MyDrive/datasets/PILOTING/CODEBRIM_original/modified_dataset/val.txt  # 20k images for submission to https://competitions.codalab.org/competitions/20794
 
 # number of classes
 nc: 1
